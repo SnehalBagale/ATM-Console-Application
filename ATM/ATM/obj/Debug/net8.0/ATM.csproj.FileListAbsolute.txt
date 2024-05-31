@@ -1,0 +1,14 @@
+E:\C#\ATM\ATM\bin\Debug\net8.0\ATM.exe
+E:\C#\ATM\ATM\bin\Debug\net8.0\ATM.deps.json
+E:\C#\ATM\ATM\bin\Debug\net8.0\ATM.runtimeconfig.json
+E:\C#\ATM\ATM\bin\Debug\net8.0\ATM.dll
+E:\C#\ATM\ATM\bin\Debug\net8.0\ATM.pdb
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfoInputs.cache
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.AssemblyInfo.cs
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.csproj.CoreCompileInputs.cache
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.dll
+E:\C#\ATM\ATM\obj\Debug\net8.0\refint\ATM.dll
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.pdb
+E:\C#\ATM\ATM\obj\Debug\net8.0\ATM.genruntimeconfig.cache
+E:\C#\ATM\ATM\obj\Debug\net8.0\ref\ATM.dll
